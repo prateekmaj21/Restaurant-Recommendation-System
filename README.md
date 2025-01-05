@@ -45,12 +45,12 @@ This repository contains a set of code files for building a **Restaurant Recomme
 1. Clone the repository:
    ```bash
    git clone https://github.com/prateekmaj21/Restaurant-Recommendation-System.git
-
+```
 2. Install the required libraries:
 
-```bash
-pip install -r requirements.txt
-
+  ```bash
+  pip install -r requirements.txt
+```
 3. Run the Tkinter app to interact with the recommendation system.
 
 ## Future Improvements:
