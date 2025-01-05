@@ -25,9 +25,11 @@ This repository contains a set of code files for building a **Restaurant Recomme
 
 ## Features
 
+- **Knowledge-Based Filtering**:  A knowledge-based recommender system (KBRS) is a decision support system that uses explicit knowledge about items, users, and recommendations to help users find relevant items. 
 - **Content-Based Filtering**: Recommends restaurants based on their features like cuisines and what they are known for.
 - **Collaborative Filtering**: Uses user-item interactions to recommend restaurants based on user ratings.
 - **Hybrid Model**: Combines both content-based and collaborative filtering techniques for better recommendations.
+- **Matrix Multiplication Based**: The Matrix Multiplication-Based Restaurant Recommendation System helps users find suitable restaurants based on their preferences.
 
 ## Technologies Used
 
