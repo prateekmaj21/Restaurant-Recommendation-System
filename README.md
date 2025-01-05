@@ -43,3 +43,10 @@ This repository contains a set of code files for building a **Restaurant Recomme
 1. Clone the repository:
    ```bash
    git clone https://github.com/prateekmaj21/Restaurant-Recommendation-System.git
+
+2. Run the Tkinter app to interact with the recommendation system:
+
+## Future Improvements:
+- Integrating additional recommendation algorithms.
+- Adding more user interaction features.
+- Expanding the dataset to include more restaurants and user interactions.
