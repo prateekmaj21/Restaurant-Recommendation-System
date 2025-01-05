@@ -48,9 +48,9 @@ This repository contains a set of code files for building a **Restaurant Recomme
    ```
 2. Install the required libraries:
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. Run the Tkinter app to interact with the recommendation system.
 
 ## Future Improvements:
