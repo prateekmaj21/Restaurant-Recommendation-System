@@ -2,6 +2,10 @@
 
 This repository contains a set of code files for building a **Restaurant Recommendation System** using multiple techniques, including **Content-Based Filtering**, **Collaborative Filtering**, and **Hybrid Models**. The system provides personalized restaurant recommendations based on user preferences and historical data.
 
+## Dataset Link:
+
+https://www.kaggle.com/datasets/vora1011/zomato-bangalore-restaurants-2022/
+
 ## Repository Structure
 
 1. **Code Files:**
